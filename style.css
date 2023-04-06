@@ -1,0 +1,38 @@
+/* Style for body specifies a background color */
+h1 {
+  font-size: 6em;
+  text-align: center;
+  color: #010B5B;
+  position: relative;left:20px;top: -20px;
+  font-family:'Courier New', Courier, monospace;
+}
+.logo {
+ position: relative;left:40px;top: -190px;
+width: 150px;
+height:110px;
+}
+
+body{
+  background-color: #E7FBFB;
+}
+
+/* Style for nav element */
+ul {color: aqua; float: left;
+font-family: 'Courier New', Courier, monospace;
+font-size: 1.5em;}
+.dropdown {
+  color:blue;
+}
+.content {
+  position: relative;
+  left: 100px;
+  top: -150px;
+}
+/* Style for footer element */
+td {
+	text-align: center;
+  width: 300px;
+  font: 1em sans-serif;
+  position: relative;
+  left: 500px;
+}
